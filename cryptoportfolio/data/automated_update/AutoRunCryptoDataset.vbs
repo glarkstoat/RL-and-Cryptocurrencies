@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\chris\Documents\GitHub\RL-and-Cryptocurrencies\cryptoportfolio\data\automated_update\AutoRunCryptoDataset.bat", 0 , True
